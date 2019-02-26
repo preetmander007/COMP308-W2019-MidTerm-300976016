@@ -1,3 +1,11 @@
+/***************************************************
+     * File Name : index.js
+     * Author: Manpreet Singh
+     * StudentID: 300976016
+     * Web App name: COMP308-W2019-MidTerm-300976016
+****************************************************/
+
+
 // modules required for routing
 let express = require('express');
 let router = express.Router();

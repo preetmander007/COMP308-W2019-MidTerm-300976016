@@ -1,3 +1,12 @@
+/***************************************************
+     * File Name : server.js
+     * Author: Manpreet Singh
+     * StudentID: 300976016
+     * Web App name: COMP308-W2019-MidTerm-300976016
+****************************************************/
+
+
+
 let app = require('./server/app');
 let debug = require('debug')('comp308-w2019-midterm:server');
 let http = require('http');
